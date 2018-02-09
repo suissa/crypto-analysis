@@ -7,6 +7,10 @@ Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem]
 
 *ps: como o artigo será em português também usarei os valores em R$.*
 
+<br>
+<hr>
+<br>
+
 ## Informações
 
 - **Valor atual**: R$13.89 BRL (11.78%) | 0.00050597 BTC (11.58%)
@@ -41,6 +45,8 @@ Traduzindo:
 > Um SMT é um recurso digital nativo no blockchain da Steem. Os SMT podem ser lançados por qualquer pessoa para ajudar a rentabilizar conteúdo online e criar incentivos para fomentar o comportamento desejado dos usuários.
 Os SMTs são como os tokens ERC-20 da Ethereum, mas com certas propriedades de ‘Proof-of-Brain’ incorporadas e um sistema de recompensa de distribuição token projetado especificamente para empresas de conteúdo digital.
 
+<br>
+<br>
 
 #### WTF ‘*Proof-of-Brain*’
 
@@ -48,6 +54,32 @@ No próprio site necontraremos a seguinte explicação:
 
 > A *Proof-of-Brain* é um tipo de algoritmo de recompensa de tokens que encoraja as pessoas a criar e a curar conteúdo.
 Ele permite que os tokens sejam distribuídos por algoritmos baseados em "*upvote*" e "*like*" que podem ser integrados com sites para alinhar incentivos entre os proprietários de aplicativos e os membros da comunidade para estimular o crescimento.
+
+<br>
+<hr>
+<br>
+
+### O Problema
+
+> Publishers and creators struggle to make a profit from their digital content.
+
+> Editores e criadores lutam para obter lucro do seu conteúdo digital.
+
+Podemos ver nitidamente esse problema baseado em uma solução atual conhecida como [Medium](https://medium.com/) onde para você RECEBER pela sua contribuição NECESSITA pagar uma mensalidade de $5 ou anuidade de $50.
+
+
+![mensalidade/anuidade do Medium](https://i.imgur.com/pXNMl0c.png)
+
+<br>
+<hr>
+<br>
+
+### A Solução
+
+
+<br>
+<hr>
+<br>
 
 ### Gráficos
 
@@ -72,6 +104,10 @@ Vamos analisar os mesmos gráficos que existem nesse site:
 
 
 
+<br>
+<hr>
+<br>
+
 ### Github - Código fonte
 
 
@@ -88,3 +124,8 @@ Para isso irei dissertar sobre os 3 sistemas que eu pretendo usar com mais frequ
 
 
 #### d.tube - [d.tube](https://d.tube/)
+
+
+<br>
+<hr>
+<br>
