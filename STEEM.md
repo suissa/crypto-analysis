@@ -25,7 +25,11 @@ Um dado importante que observamos diretamente ao entramos no site oficial é o v
 
 > O que isso pode nos dizer sem saber de ante-mão sobre essa moeda?
 
+<br> 
+
 **Que seu intuito é a geração de recopensas!**
+
+<br> 
 
 O que podemos encontrar logo abaixo no site é a explicação do que são os Smart Media Tokens:
 
@@ -34,8 +38,8 @@ SMTs are like Ethereum's ERC-20 tokens, but with certain built-in ‘Proof-of-Br
 
 Traduzindo:
 
-> Um SMT é um recurso digital nativo na cadeia de blocos Steem. Os SMT podem ser lançados por qualquer pessoa para ajudar a rentabilizar conteúdo online e criar incentivos para incentivar o comportamento dos usuários desejado.
-Os SMTs são como os tokens ERC-20 da Ethereum, mas com certas propriedades de prova de cérebro incorporadas e um sistema de recompensa de distribuição token projetado especificamente para empresas de conteúdo digital.
+> Um SMT é um recurso digital nativo no blockchain da Steem. Os SMT podem ser lançados por qualquer pessoa para ajudar a rentabilizar conteúdo online e criar incentivos para fomentar o comportamento desejado dos usuários.
+Os SMTs são como os tokens ERC-20 da Ethereum, mas com certas propriedades de ‘Proof-of-Brain’ incorporadas e um sistema de recompensa de distribuição token projetado especificamente para empresas de conteúdo digital.
 
 ### Gráficos
 
