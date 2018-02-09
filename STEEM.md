@@ -28,11 +28,13 @@ Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem]
 ![Três meses](https://i.imgur.com/inhkpHW.png)
 
 
+**Um mês**
+
+![Um mês](https://i.imgur.com/zEeg2yu.png)
+
 **Uma semana**
 ![Uma semana](https://i.imgur.com/R71Gatl.png)
 
-
-![]()
 
 
 
