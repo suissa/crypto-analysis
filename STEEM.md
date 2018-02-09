@@ -17,6 +17,7 @@ Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem]
 
 ## Análise
 
+Vamos analisar os mesmos gráficos que existem nesse site:
 
 **TUDO**
 
