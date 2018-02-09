@@ -21,6 +21,10 @@ Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem]
 - **Site oficial**: [steem.io](https://steem.io/)
 - **Código fonte**: [github.com/steemit/steem](https://github.com/steemit/steem)
 
+
+<br>
+<hr>
+
 ## Análise
 
 Um dado importante que observamos diretamente ao entramos no site oficial é o valor aproximado pago em recompensas desde Junho de 2016:
@@ -40,6 +44,8 @@ O que podemos encontrar logo abaixo no site é a explicação do que são os Sma
 > An SMT is a native digital asset on the Steem blockchain. SMTs can be launched by anyone to help monetize online content and create incentives to encourage desired user behavior.
 SMTs are like Ethereum's ERC-20 tokens, but with certain built-in ‘Proof-of-Brain’ properties and a token distribution reward system designed specifically for digital content businesses.
 
+<br>
+
 Traduzindo:
 
 > Um SMT é um recurso digital nativo no blockchain da Steem. Os SMT podem ser lançados por qualquer pessoa para ajudar a rentabilizar conteúdo online e criar incentivos para fomentar o comportamento desejado dos usuários.
@@ -57,16 +63,12 @@ Ele permite que os tokens sejam distribuídos por algoritmos baseados em "*upvot
 
 <br>
 <hr>
-<br>
 
 ### O Problema
-
-<br>
 
 Texto original:
 
 > Publishers and creators struggle to make a profit from their digital content.
-
 
 <br>
 
@@ -76,21 +78,27 @@ Tradução:
 
 
 <br>
+
 Podemos ver nitidamente esse problema baseado em uma solução atual conhecida como [Medium](https://medium.com/) onde para você RECEBER pela sua contribuição NECESSITA pagar uma mensalidade de $5 ou anuidade de $50.
 
 
 ![mensalidade/anuidade do Medium](https://i.imgur.com/pXNMl0c.png)
 
+WHY?
+
+It's hard for publishers to acquire a critical mass of paying subscribers.
+Ad-revenue is taking a hit with the rise of ad-blockers.
+Tips and donations are not viable due to the expense of processing micro-payments
+Huge social networks like Facebook take profits from publishers but don't share revenue
+
 <br>
 <hr>
-<br>
 
 ### A Solução
 
 
 <br>
 <hr>
-<br>
 
 ### Gráficos
 
