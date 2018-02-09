@@ -61,10 +61,21 @@ Ele permite que os tokens sejam distribuídos por algoritmos baseados em "*upvot
 
 ### O Problema
 
+<br>
+
+Texto original:
+
 > Publishers and creators struggle to make a profit from their digital content.
+
+
+<br>
+
+Tradução:
 
 > Editores e criadores lutam para obter lucro do seu conteúdo digital.
 
+
+<br>
 Podemos ver nitidamente esse problema baseado em uma solução atual conhecida como [Medium](https://medium.com/) onde para você RECEBER pela sua contribuição NECESSITA pagar uma mensalidade de $5 ou anuidade de $50.
 
 
