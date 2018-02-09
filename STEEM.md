@@ -19,9 +19,24 @@ Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem]
 
 ## Análise
 
-Vamos analisar os mesmos gráficos que existem nesse site:
+Um dado importante que observamos diretamente ao entramos no site oficial é o valor aproximado pago em recompensas desde Junho de 2016:
+
+- $22,728,958 USD
+
+> O que isso pode nos dizer sem saber de ante-mão sobre essa moeda?
+
+**Que seu intuito é a geração de recopensas!**
+
+O que podemos encontrar logo abaixo no site é a explicação do que são os Smart Media Tokens:
+
+> An SMT is a native digital asset on the Steem blockchain. SMTs can be launched by anyone to help monetize online content and create incentives to encourage desired user behavior.
+
+> SMTs are like Ethereum's ERC-20 tokens, but with certain built-in ‘Proof-of-Brain’ properties and a token distribution reward system designed specifically for digital content businesses.
+
 
 ### Gráficos
+
+Vamos analisar os mesmos gráficos que existem nesse site:
 
 **TUDO**
 
