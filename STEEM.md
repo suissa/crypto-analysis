@@ -47,11 +47,14 @@ Vamos analisar os mesmos gráficos que existem nesse site:
 
 ### Ecossistema
 
+Essa seção é uma das mais interessantes no contexto dessa moeda pois a mesma já provê diversos sistemas interligados que constrõem toda uma base descentralizada de criação e consumo de conteúdos de forma rentável para quem os cria.
 
-#### steemit
+Para isso irei dissertar sobre os 3 sistemas que eu pretendo usar com mais frequência.
+
+#### steemit - [steemit.com](https://steemit.com/)
 
 
-#### utopian
+#### utopian - [utopian.io](https://utopian.io/)
 
 
-### dtube
+#### d.tube - [d.tube](https://d.tube/)
