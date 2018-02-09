@@ -41,6 +41,14 @@ Traduzindo:
 > Um SMT é um recurso digital nativo no blockchain da Steem. Os SMT podem ser lançados por qualquer pessoa para ajudar a rentabilizar conteúdo online e criar incentivos para fomentar o comportamento desejado dos usuários.
 Os SMTs são como os tokens ERC-20 da Ethereum, mas com certas propriedades de ‘Proof-of-Brain’ incorporadas e um sistema de recompensa de distribuição token projetado especificamente para empresas de conteúdo digital.
 
+
+#### WTF ‘*Proof-of-Brain*’
+
+No próprio site necontraremos a seguinte explicação:
+
+> A *Proof-of-Brain* é um tipo de algoritmo de recompensa de tokens que encoraja as pessoas a criar e a curar conteúdo.
+Ele permite que os tokens sejam distribuídos por algoritmos baseados em "*upvote*" e "*like*" que podem ser integrados com sites para alinhar incentivos entre os proprietários de aplicativos e os membros da comunidade para estimular o crescimento.
+
 ### Gráficos
 
 Vamos analisar os mesmos gráficos que existem nesse site:
