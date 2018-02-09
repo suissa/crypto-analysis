@@ -21,6 +21,8 @@ Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem]
 
 Vamos analisar os mesmos gráficos que existem nesse site:
 
+### Gráficos
+
 **TUDO**
 
 ![TUDO](https://i.imgur.com/b1sJKt5.png)
@@ -40,17 +42,16 @@ Vamos analisar os mesmos gráficos que existem nesse site:
 
 
 
+### Github - Código fonte
 
 
-Site oficial
-Steem - blockchain-based social media platform
-A new way for publishers to monetize their online content and community, based on battle-tested blockchain technologysteem.io
+### Ecossistema
 
 
+#### steemit
 
 
+#### utopian
 
 
-Github
-steemit/steem
-steem - The blockchain for Smart Media Tokens (SMTs) and decentralized applications.github.com
+### dtube
