@@ -14,6 +14,8 @@ Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem]
 - **Volume (24h)**: R$221,347,406 BRL | 8,063 BTC
 - **Fornecimento Circulante**: 249,197,668 STEEM
 - **Fornecimento Total**: 266,171,762 STEEM
+- **Site oficial**: [steem.io](https://steem.io/)
+- **Código fonte**: [github.com/steemit/steem](https://github.com/steemit/steem)
 
 ## Análise
 
