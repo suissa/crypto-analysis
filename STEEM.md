@@ -1,15 +1,25 @@
-CryptoAnalysis — STEEM
-Maravilha tetudo
+# CryptoAnalysis — STEEM
+
 Antes de ser apresentado propriamente à esse projeto pelo meu caro [Herndades] eu conhecia-o por cima, mas agora estou me interando melhor em todo seu ecossistema e exatamente por isso que esse será meu artigo de iniciação, para divulgar e fomentar o uso desse maravilhoso ecossistema que para mim ERA O QUE FALTAVA NA INTERNET!
 
 
-Vamos analisar sua posição atual no https://coinmarketcap.com :
+Vamos analisar sua posição atual no [coinmarketcap.com/currencies/steem](https://coinmarketcap.com/currencies/steem/):
+
+*ps: como o artigo será em português também usarei os valores em R$.*
+
+## Informações
+
+- Valor atual: R$13.89 BRL (11.78%) | 0.00050597 BTC (11.58%)
+
+- Cap. de Mercado: R$3,461,268,522 BRL | 126,087 BTC 
+- Volume (24h): R$221,347,406 BRL | 8,063 BTC
+
+- Fornecimento Circulante: 249,197,668 STEEM
+- Fornecimento Total: 266,171,762 STEEM
+
+ 
 
 
-Entrando no seu link obtemos as seguintes informações:
-Não vamos nos ater à sua valorização em cima de 24 horas pois no dia anterior TUDO caiu PACARALEO, logo vamos apenas levar em consideração as informações de:
-Circulating Supply;
-Total Supply
 
 
 
