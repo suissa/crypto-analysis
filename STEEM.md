@@ -9,22 +9,30 @@ Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem]
 
 ## Informações
 
-- Valor atual: R$13.89 BRL (11.78%) | 0.00050597 BTC (11.58%)
+- **Valor atual**: R$13.89 BRL (11.78%) | 0.00050597 BTC (11.58%)
+- **Cap. de Mercado**: R$3,461,268,522 BRL | 126,087 BTC 
+- **Volume (24h)**: R$221,347,406 BRL | 8,063 BTC
+- **Fornecimento Circulante**: 249,197,668 STEEM
+- **Fornecimento Total**: 266,171,762 STEEM
 
-<br>
-
-- Cap. de Mercado: R$3,461,268,522 BRL | 126,087 BTC 
-- Volume (24h): R$221,347,406 BRL | 8,063 BTC
-
-<br>
-
-- Fornecimento Circulante: 249,197,668 STEEM
-- Fornecimento Total: 266,171,762 STEEM
-
- 
+## Análise
 
 
+**TUDO**
 
+![TUDO](https://i.imgur.com/b1sJKt5.png)
+
+
+**Três meses**
+
+![Três meses](https://i.imgur.com/inhkpHW.png)
+
+
+**Uma semana**
+![Uma semana](https://i.imgur.com/R71Gatl.png)
+
+
+![]()
 
 
 
