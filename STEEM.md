@@ -3,7 +3,7 @@
 Antes de ser apresentado propriamente à esse projeto pelo meu caro [Herndades] eu conhecia-o por cima, mas agora estou me interando melhor em todo seu ecossistema e exatamente por isso que esse será meu artigo de iniciação, para divulgar e fomentar o uso desse maravilhoso ecossistema que para mim **ERA O QUE FALTAVA NA INTERNET!**
 
 
-Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem](https://coinmarketcap.com/pt-br/currencies/steem/):
+Vamos obserrvar algumas informações retiradas de [coinmarketcap.com/pt-br/currencies/steem](https://coinmarketcap.com/pt-br/currencies/steem/):
 
 *ps1: como o artigo será em português também usarei os valores em R$.*
 
