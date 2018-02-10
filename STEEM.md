@@ -213,6 +213,7 @@ Além de não copiar o texto de outrém também se atenha ao uso de imagens de t
 
 **E, claro, fique esperta(o) com os *copyrights*!!!**
 
+<br>
 
 <hr>
 
@@ -229,6 +230,8 @@ Sempre pensei em formas de se rentabilizar os projetos *open source* e fico **MU
 <br>
 
 > Já venho deixar aqui MEUS PARABÉNS a toda equipe resonsável por esse projeto, assim como todo o ecossistema do STEEM veio para ajudar os criadores de conteúdo prevejo uma ótima tração nesse sistema ainda mais após fomentarmos cada vez mais seu uso pela comunidade brasileira.
+
+<br>
 
 <hr>
 
