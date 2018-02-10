@@ -157,6 +157,16 @@ Para quem está acostumado ao Medium terá uma leve decepção pois você não p
 
 **Também é interessante que você leia essa [FAQ](https://steemit.com/faq.html) deles.**
 
+
+##### Pagamentos
+
+Os pagamentos são feitos 7 dias após o a publicação do seu *post* ou comentário ser criado. 
+Você pode/deve reivindicar suas recompensas em sua carteira após esses 7 dias, o valor pode flutuar (para cima e para baixo) até o pagamento final ser alcançado e são divididos entre o autor (pelo menos 75%) e os curadores (até 25%).
+
+A recompensa do autor é paga 50% em Steem Power e 50% em STEEM / SBD.
+
+**Os autores também têm a opção de recusar o pagamento, ou serão pagos em 100% do Steem Power!**
+
 <hr>
 
 #### utopian - [utopian.io](https://utopian.io/)
