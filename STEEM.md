@@ -116,6 +116,19 @@ Grandes redes sociais, como o Facebook, ganham lucros com os editores, mas não 
 
 <hr>
 
+### Velocida e Taxas
+
+Segundo o site oficial, temos o seguinte:
+
+> Mais rápido do que Bitcoin e Ethereum, sem taxas
+A execução de uma rede social descentralizada baseada em recompensas exigiu novos avanços na tecnologia blockchain. O Steem é uma cadeia de blocos de próxima geração, projetada exclusivamente para executar aplicações em tempo real com transações instantâneas e sem taxas.
+
+O Steem foi testado fortemente nos últimos 18 meses, já processando mais transações por segundo do que Bitcoin e Ethereum.
+
+
+<hr>
+
+
 ### Ecossistema
 
 Essa seção é uma das mais interessantes no contexto dessa moeda pois a mesma já provê diversos sistemas interligados que constrõem toda uma base descentralizada de criação e consumo de conteúdos de forma rentável para quem os cria.
