@@ -11,7 +11,6 @@ Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem]
 
 <br>
 <hr>
-<br>
 
 ## Informações
 
@@ -54,7 +53,6 @@ Traduzindo:
 > Um SMT é um recurso digital nativo no blockchain da Steem. Os SMT podem ser lançados por qualquer pessoa para ajudar a rentabilizar conteúdo online e criar incentivos para fomentar o comportamento desejado dos usuários.
 Os SMTs são como os tokens ERC-20 da Ethereum, mas com certas propriedades de ‘Proof-of-Brain’ incorporadas e um sistema de recompensa de distribuição token projetado especificamente para empresas de conteúdo digital.
 
-<br>
 <br>
 
 #### WTF ‘*Proof-of-Brain*’
