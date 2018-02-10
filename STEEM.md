@@ -25,6 +25,19 @@ Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem]
 
 <hr>
 
+
+## Github - Código fonte
+
+- Repositório oficial: [github.com/steemit/steem](https://github.com/steemit/steem)
+
+
+Uma forma interessante de acompanhar a execução das tarefas desse Projeto é entrando [aqui em Projects](https://github.com/steemit/steem/projects/5)
+
+![Projects - Smart Media Tokens](https://i.imgur.com/QqtaJs2.png)
+
+
+<hr>
+
 ## Análise
 
 Um dado importante que observamos diretamente ao entramos no site oficial é o valor aproximado pago em recompensas desde Junho de 2016:
@@ -118,11 +131,7 @@ Vamos analisar os mesmos gráficos que existem nesse site:
 ![Uma semana](https://i.imgur.com/R71Gatl.png)
 
 
-
 <hr>
-
-### Github - Código fonte
-
 
 ### Ecossistema
 
@@ -159,3 +168,4 @@ Para quem está acostumado ao Medium terá uma leve decepção pois você não p
 - [Meu canal: suissa](https://d.tube/#!/c/suissa) (Ainda sem nada)
 
 <hr>
+
