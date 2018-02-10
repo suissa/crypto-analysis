@@ -140,6 +140,8 @@ Primeiro passo que você deverá fazer após ter sua conta aceita no sistema é 
 
 Para quem está acostumado ao Medium terá uma leve decepção pois você não poderá escrever seu texto e ele ir salvando automaticamente, no caso do Steemit você precisa submeter o artigo completo. A dica que posso lhe dar é criar um repositório no Github para seus artigos e escrevá-os usando Markdown, depois de finalizado basta submetê-lo. 
 
+**Também é interessante que você leia essa [FAQ](https://steemit.com/faq.html) deles.**
+
 #### utopian - [utopian.io](https://utopian.io/)
 
 - [Meu perfil: @suissa](https://utopian.io/@suissa)
