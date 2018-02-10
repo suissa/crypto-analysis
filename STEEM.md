@@ -162,6 +162,8 @@ Primeiro passo que você deverá fazer após ter sua conta aceita no sistema é 
 
 Para quem está acostumado ao Medium terá uma leve decepção pois você não poderá escrever seu texto e ele ir salvando automaticamente, no caso do Steemit você precisa submeter o artigo completo. A dica que posso lhe dar é criar um repositório no Github para seus artigos e escrevá-os usando Markdown, depois de finalizado basta submetê-lo. 
 
+Entretanto acredito qu5e sua interface evoluiría para algo que já conhecemos pelo Medium, pois querendo ou não sua interface é bem simples e usável para os escritores.
+
 **Também é interessante que você leia essa [FAQ](https://steemit.com/faq.html) deles.**
 
 
@@ -205,7 +207,7 @@ Como um desenvolvedor *open source* esse sistema deveras me interessa, entretant
 
 Sempre pensei em formas de se rentabilizar os projetos *open source* e fico **MUITO** feliz de ver que isto está sendo possível graças ao Utopian.
 
-Já venho deixar aqui MEUS PARABÉNS a toda equipe resonsável por esse projeto, assim como todo o ecossistema do STEEM veio para ajudar os criadores de conteúdo prevejo uma ótima tração nesse sistema ainda mais após fomentarmos cada vez mais seu uso pela comunidade brasileira.
+> Já venho deixar aqui MEUS PARABÉNS a toda equipe resonsável por esse projeto, assim como todo o ecossistema do STEEM veio para ajudar os criadores de conteúdo prevejo uma ótima tração nesse sistema ainda mais após fomentarmos cada vez mais seu uso pela comunidade brasileira.
 
 <hr>
 
