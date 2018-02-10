@@ -130,6 +130,8 @@ Essa seção é uma das mais interessantes no contexto dessa moeda pois a mesma 
 
 Para isso irei dissertar sobre os 3 sistemas que eu pretendo usar com mais frequência.
 
+<hr>
+
 #### steemit - [steemit.com](https://steemit.com/)
 
 - [Meu perfil: @suissa](https://steemit.com/@suissa/)
@@ -142,9 +144,14 @@ Para quem está acostumado ao Medium terá uma leve decepção pois você não p
 
 **Também é interessante que você leia essa [FAQ](https://steemit.com/faq.html) deles.**
 
+<hr>
+
 #### utopian - [utopian.io](https://utopian.io/)
 
 - [Meu perfil: @suissa](https://utopian.io/@suissa)
+
+
+<hr>
 
 #### d.tube - [d.tube](https://d.tube/)
 
