@@ -1,6 +1,4 @@
-# CryptoAnalysis  —  STEEM
-
-Antes de ser apresentado propriamente à esse projeto pelo meu caro [Herndades] eu conhecia-o por cima, mas agora estou me interando melhor em todo seu ecossistema e exatamente por isso que esse será meu artigo de iniciação, para divulgar e fomentar o uso desse maravilhoso ecossistema que para mim **ERA O QUE FALTAVA NA INTERNET!**
+Antes de ser apresentado propriamente à esse projeto eu já conhecia-o por cima, mas agora estou aprendendo mais sobre todo seu ecossistema e exatamente nesse contexto que será meu artigo de iniciação, para divulgar e fomentar o uso desse maravilhoso ecossistema, que para mim **ERA O QUE FALTAVA NA INTERNET!**
 
 > Essa análise não será apenas focada na **moeda** STEMM mas sim no que ela tem a nos oferecer.
 
@@ -13,7 +11,6 @@ Antes de ser apresentado propriamente à esse projeto pelo meu caro [Herndades] 
 
 *ps2: **não será um artigo técnico e sim introdutório***
 
-<br>
 <hr>
 <br>
 
@@ -31,7 +28,6 @@ Vamos obserrvar algumas informações retiradas de [coinmarketcap.com/pt-br/curr
 - **Código fonte**: [github.com/steemit/steem](https://github.com/steemit/steem)
 
 
-<br>
 <hr>
 <br>
 
@@ -50,7 +46,6 @@ Podemos ver pelo Pulse do seu Github que o projeto tem certa movimentação oque
 
 ![Githuib STEEM pulse](https://i.imgur.com/ObG0UuE.png)
 
-<br>
 <hr>
 <br>
 
@@ -89,7 +84,6 @@ No próprio site encontraremos a seguinte explicação:
 > A *Proof-of-Brain* é um tipo de algoritmo de recompensa de tokens que encoraja as pessoas a criar e a curar conteúdo.
 Ele permite que os tokens sejam distribuídos por algoritmos baseados em "*upvote*" e "*like*" que podem ser integrados com sites para alinhar incentivos entre os proprietários de aplicativos e os membros da comunidade para estimular o crescimento.
 
-<br>
 <hr>
 <br>
 
@@ -115,7 +109,6 @@ Grandes redes sociais, como o Facebook, ganham lucros com os editores, mas não 
 
 **Concordo plenamente e é exatamente por isso que acredito piamente no futuro desse projeto!**
 
-<br>
 <hr>
 <br>
 
@@ -137,9 +130,7 @@ Como eu gostaria que os criadores de conteúdo parassem de usar o Facebook para 
 
 > **Isso para mim é exatamente o contrário do que deveria ser!**
 
-<br>
 <hr>
-<br>
 <br>
 
 ### Velocida e Taxas
@@ -155,11 +146,9 @@ A execução de uma rede social descentralizada baseada em recompensas exigiu no
 
 Achei interessante essa informação pois eu não conhecia, porém nesse exato momento não levantarei os dados necessários para a corroboração de tal, contudo quando eu escrever um artigo **técnico** aí sim abordarei novamente esse assunto com os dados fundamentais para tal análise.
 
-<br>
 <hr>
 <br>
 
-<br>
 
 ### Ecossistema
 
@@ -246,4 +235,3 @@ Não encontrei muitas informações para passar aqui nesse momento, mas irei atu
 Um *post* interessante para você ler nesse meio tempo [Introducing DTube: a decentralized video platform using STEEM and IPFS](https://steemit.com/video/@heimindanger/introducing-dtube-a-decentralized-video-platform-using-steem-and-ipfs)
 
 <hr>
-
