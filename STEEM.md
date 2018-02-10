@@ -1,11 +1,13 @@
 # CryptoAnalysis — STEEM
 
-Antes de ser apresentado propriamente à esse projeto pelo meu caro [Herndades] eu conhecia-o por cima, mas agora estou me interando melhor em todo seu ecossistema e exatamente por isso que esse será meu artigo de iniciação, para divulgar e fomentar o uso desse maravilhoso ecossistema que para mim ERA O QUE FALTAVA NA INTERNET!
+Antes de ser apresentado propriamente à esse projeto pelo meu caro [Herndades] eu conhecia-o por cima, mas agora estou me interando melhor em todo seu ecossistema e exatamente por isso que esse será meu artigo de iniciação, para divulgar e fomentar o uso desse maravilhoso ecossistema que para mim **ERA O QUE FALTAVA NA INTERNET!**
 
 
 Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem](https://coinmarketcap.com/pt-br/currencies/steem/):
 
-*ps: como o artigo será em português também usarei os valores em R$.*
+*ps1: como o artigo será em português também usarei os valores em R$.*
+
+*ps2: **não será um artigo técnico e sim introdutório***
 
 <br>
 <hr>
@@ -13,6 +15,7 @@ Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem]
 
 ## Informações
 
+- **Posição**: 25 (10/Fev/2018)
 - **Valor atual**: R$13.89 BRL (11.78%) | 0.00050597 BTC (11.58%)
 - **Cap. de Mercado**: R$3,461,268,522 BRL | 126,087 BTC 
 - **Volume (24h)**: R$221,347,406 BRL | 8,063 BTC
@@ -56,7 +59,7 @@ Os SMTs são como os tokens ERC-20 da Ethereum, mas com certas propriedades de �
 
 #### WTF ‘*Proof-of-Brain*’
 
-No próprio site necontraremos a seguinte explicação:
+No próprio site encontraremos a seguinte explicação:
 
 > A *Proof-of-Brain* é um tipo de algoritmo de recompensa de tokens que encoraja as pessoas a criar e a curar conteúdo.
 Ele permite que os tokens sejam distribuídos por algoritmos baseados em "*upvote*" e "*like*" que podem ser integrados com sites para alinhar incentivos entre os proprietários de aplicativos e os membros da comunidade para estimular o crescimento.
@@ -138,12 +141,17 @@ Para isso irei dissertar sobre os 3 sistemas que eu pretendo usar com mais frequ
 
 #### steemit - [steemit.com](https://steemit.com/)
 
+[Meu perfil: @suissa](https://steemit.com/@suissa/)
+
 
 #### utopian - [utopian.io](https://utopian.io/)
 
+[Meu perfil: @suissa](https://utopian.io/@suissa)
 
 #### d.tube - [d.tube](https://d.tube/)
 
+
+[Meu canal: suissa](https://d.tube/#!/c/suissa) (Ainda sem nada)
 
 <br>
 <hr>
