@@ -109,30 +109,6 @@ Huge social networks like Facebook take profits from publishers but don't share 
 
 <hr>
 
-### Gráficos
-
-Vamos analisar os mesmos gráficos que existem nesse site:
-
-**TUDO**
-
-![TUDO](https://i.imgur.com/b1sJKt5.png)
-
-
-**Três meses**
-
-![Três meses](https://i.imgur.com/inhkpHW.png)
-
-
-**Um mês**
-
-![Um mês](https://i.imgur.com/zEeg2yu.png)
-
-**Uma semana**
-![Uma semana](https://i.imgur.com/R71Gatl.png)
-
-
-<hr>
-
 ### Ecossistema
 
 Essa seção é uma das mais interessantes no contexto dessa moeda pois a mesma já provê diversos sistemas interligados que constrõem toda uma base descentralizada de criação e consumo de conteúdos de forma rentável para quem os cria.
