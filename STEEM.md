@@ -182,6 +182,14 @@ Quanto maior o número, mais votos ponderados essa conta ganha.
 
 A sua reputação aumentará à medida que você ganhar as cotações para as suas postagens e comentários, mas pode descer se forem sinalizadas.
 
+##### Plágio
+
+**Não plageie o trabalho alheio ou VAI DAR MERDA!**
+
+Além de não copiar o texto de outrém também se atenha ao uso de imagens de terceiros, sempre cite as fontes utilizadas.
+
+**E, claro, fique esperta(o) com os *copyrights*!!!**
+
 
 <hr>
 
@@ -189,7 +197,7 @@ A sua reputação aumentará à medida que você ganhar as cotações para as su
 
 - [Meu perfil: @suissa](https://utopian.io/@suissa)
 
-Para mim como um desenvolvedor *open source* me interessa muito, entretanto como eu já percebi que existem DVERSAS formas de se contribuir com esse sistema irei escreve, logo, um artigo focado apenas nesse contexto.
+Como um desenvolvedor *open source* esse sistema deveras me interessa, entretanto como eu já percebi que existem DIVERSAS formas de se contribuir com esse sistema irei escreve, logo, um artigo focado apenas nesse contexto.
 
 Sempre pensei em formas de se rentabilizar os projetos *open source* e fico **MUITO** feliz de ver que isto está sendo possível graças ao Utopian.
 
