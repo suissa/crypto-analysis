@@ -4,12 +4,8 @@ Antes de ser apresentado propriamente à esse projeto pelo meu caro [Herndades] 
 
 > Essa análise não será apenas focada na **moeda** STEMM mas sim no que ela tem a nos oferecer.
 
-Vamos obserrvar algumas informações retiradas de [coinmarketcap.com/pt-br/currencies/steem](https://coinmarketcap.com/pt-br/currencies/steem/):
-
 *ps0: vários textos retirados e traduzidos do site oficial.*
-
 *ps1: como o artigo será em português também usarei os valores em R$.*
-
 *ps2: **não será um artigo técnico e sim introdutório***
 
 <br>
@@ -17,6 +13,8 @@ Vamos obserrvar algumas informações retiradas de [coinmarketcap.com/pt-br/curr
 <br>
 
 ## Informações
+
+Vamos obserrvar algumas informações retiradas de [coinmarketcap.com/pt-br/currencies/steem](https://coinmarketcap.com/pt-br/currencies/steem/):
 
 - **Posição**: 25 (10/Fev/2018)
 - **Valor atual**: R$13.89 BRL (11.78%) | 0.00050597 BTC (11.58%)
