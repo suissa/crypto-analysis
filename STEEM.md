@@ -99,12 +99,15 @@ Podemos ver nitidamente esse problema baseado em uma solução atual conhecida c
 
 ![mensalidade/anuidade do Medium](https://i.imgur.com/pXNMl0c.png)
 
-WHY?
+#### Por quê?
 
-It's hard for publishers to acquire a critical mass of paying subscribers.
-Ad-revenue is taking a hit with the rise of ad-blockers.
-Tips and donations are not viable due to the expense of processing micro-payments
-Huge social networks like Facebook take profits from publishers but don't share revenue
+*Traduzindo o texto oficia do site:*
+
+> É difícil para os editores adquirir uma massa crítica de assinantes pagantes.
+A receita de anúncios está levando um golpe com o aumento dos bloqueadores de anúncios.
+Dicas e doações não são viáveis devido à despesa de processamento de micro pagamentos
+Grandes redes sociais, como o Facebook, ganham lucros com os editores, mas não compartilham receitas
+
 
 <hr>
 
