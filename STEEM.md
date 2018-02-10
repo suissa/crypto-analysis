@@ -137,6 +137,9 @@ A execução de uma rede social descentralizada baseada em recompensas exigiu no
 
 > O Steem foi testado fortemente nos últimos 18 meses, já processando mais transações por segundo do que Bitcoin e Ethereum.
 
+<br>
+
+Achei interessante essa informação pois eu não conhecia, porém nesse exato momento não levantarei os dados necessários para a corroboração de tal, contudo quando eu escrever um artigo **técnico** aí sim abordarei novamente esse assunto com os dados fundamentais para tal análise.
 
 <hr>
 <br>
@@ -206,6 +209,8 @@ Além de não copiar o texto de outrém também se atenha ao uso de imagens de t
 Como um desenvolvedor *open source* esse sistema deveras me interessa, entretanto como eu já percebi que existem DIVERSAS formas de se contribuir com esse sistema irei escreve, logo, um artigo focado apenas nesse contexto.
 
 Sempre pensei em formas de se rentabilizar os projetos *open source* e fico **MUITO** feliz de ver que isto está sendo possível graças ao Utopian.
+
+<br>
 
 > Já venho deixar aqui MEUS PARABÉNS a toda equipe resonsável por esse projeto, assim como todo o ecossistema do STEEM veio para ajudar os criadores de conteúdo prevejo uma ótima tração nesse sistema ainda mais após fomentarmos cada vez mais seu uso pela comunidade brasileira.
 
