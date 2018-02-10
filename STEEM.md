@@ -117,7 +117,7 @@ A receita de anúncios está levando um golpe com o aumento dos bloqueadores de 
 Dicas e doações não são viáveis devido à despesa de processamento de micro pagamentos
 Grandes redes sociais, como o Facebook, ganham lucros com os editores, mas não compartilham receitas
 
-** Concordo plenamente e é exatamente por isso que acredito piamente no futuro desse projeto!**
+**Concordo plenamente e é exatamente por isso que acredito piamente no futuro desse projeto!**
 
 <br>
 <hr>
