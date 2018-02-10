@@ -90,16 +90,7 @@ Ele permite que os tokens sejam distribuídos por algoritmos baseados em "*upvot
 
 ### O Problema
 
-Texto original:
-
-> Publishers and creators struggle to make a profit from their digital content.
-
-<br>
-
-Tradução:
-
 > Editores e criadores lutam para obter lucro do seu conteúdo digital.
-
 
 <br>
 
