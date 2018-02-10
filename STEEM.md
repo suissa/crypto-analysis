@@ -16,7 +16,7 @@ Antes de ser apresentado propriamente à esse projeto eu já conhecia-o por cima
 
 ## Informações
 
-Vamos obserrvar algumas informações retiradas de [coinmarketcap.com/pt-br/currencies/steem](https://coinmarketcap.com/pt-br/currencies/steem/):
+Vamos observar algumas informações retiradas de [coinmarketcap.com/pt-br/currencies/steem](https://coinmarketcap.com/pt-br/currencies/steem/):
 
 - **Posição**: 25 (10/Fev/2018)
 - **Valor atual**: R$13.89 BRL (11.78%) | 0.00050597 BTC (11.58%)
@@ -84,6 +84,8 @@ No próprio site encontraremos a seguinte explicação:
 > A *Proof-of-Brain* é um tipo de algoritmo de recompensa de tokens que encoraja as pessoas a criar e a curar conteúdo.
 Ele permite que os tokens sejam distribuídos por algoritmos baseados em "*upvote*" e "*like*" que podem ser integrados com sites para alinhar incentivos entre os proprietários de aplicativos e os membros da comunidade para estimular o crescimento.
 
+Vamos combnar que é uma solução simples e elegante basicamente reutilizando conceitos já bem conhecidos como o "*upvote*" e "*like*", mais um ponto a favor que irá contribuir com agregação de novos usuários. 
+
 <hr>
 <br>
 
@@ -114,7 +116,7 @@ Grandes redes sociais, como o Facebook, ganham lucros com os editores, mas não 
 
 ### A Solução
 
-Permitir que os editores criem tokens que ajudem a monetizar conteúdo e a crescer comunidades.
+Permitir que os editores criem tokens que ajudem a monetizar conteúdo e a crescer comunidades. <3
 
 #### Como?
 
