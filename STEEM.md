@@ -131,7 +131,7 @@ Segundo o site oficial, temos o seguinte:
 > Mais rápido do que Bitcoin e Ethereum, sem taxas
 A execução de uma rede social descentralizada baseada em recompensas exigiu novos avanços na tecnologia blockchain. O Steem é uma cadeia de blocos de próxima geração, projetada exclusivamente para executar aplicações em tempo real com transações instantâneas e sem taxas.
 
-O Steem foi testado fortemente nos últimos 18 meses, já processando mais transações por segundo do que Bitcoin e Ethereum.
+> O Steem foi testado fortemente nos últimos 18 meses, já processando mais transações por segundo do que Bitcoin e Ethereum.
 
 
 <hr>
