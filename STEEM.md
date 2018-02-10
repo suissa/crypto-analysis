@@ -23,6 +23,7 @@ Vamos obserrvar algumas informações retiradas de [coinmarketcap.com/pt-br/curr
 - **Código fonte**: [github.com/steemit/steem](https://github.com/steemit/steem)
 
 
+<br>
 <hr>
 <br>
 
@@ -41,6 +42,7 @@ Podemos ver pelo Pulse do seu Github que o projeto tem certa movimentação oque
 
 ![Githuib STEEM pulse](https://i.imgur.com/ObG0UuE.png)
 
+<br>
 <hr>
 <br>
 
@@ -79,6 +81,7 @@ No próprio site encontraremos a seguinte explicação:
 > A *Proof-of-Brain* é um tipo de algoritmo de recompensa de tokens que encoraja as pessoas a criar e a curar conteúdo.
 Ele permite que os tokens sejam distribuídos por algoritmos baseados em "*upvote*" e "*like*" que podem ser integrados com sites para alinhar incentivos entre os proprietários de aplicativos e os membros da comunidade para estimular o crescimento.
 
+<br>
 <hr>
 <br>
 
@@ -112,6 +115,7 @@ Dicas e doações não são viáveis devido à despesa de processamento de micro
 Grandes redes sociais, como o Facebook, ganham lucros com os editores, mas não compartilham receitas
 
 
+<br>
 <hr>
 <br>
 
@@ -141,6 +145,7 @@ A execução de uma rede social descentralizada baseada em recompensas exigiu no
 
 Achei interessante essa informação pois eu não conhecia, porém nesse exato momento não levantarei os dados necessários para a corroboração de tal, contudo quando eu escrever um artigo **técnico** aí sim abordarei novamente esse assunto com os dados fundamentais para tal análise.
 
+<br>
 <hr>
 <br>
 
