@@ -137,7 +137,7 @@ Os editores também podem usar os tokens para angariar fundos através de uma 'I
 
 Como eu gostaria que os criadores de conteúdo parassem de usar o Facebook para isso, pois apenas enriquecem o própro Facebook onde muitas das vezes **você precsa PAGAR para estimular o consumo do seu conteúdo**. 
 
-> Isso para mim é exatamente o contrário do que deveria ser!
+> **Isso para mim é exatamente o contrário do que deveria ser!**
 
 <br>
 <hr>
