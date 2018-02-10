@@ -152,6 +152,8 @@ Para isso irei dissertar sobre os 3 sistemas que eu pretendo usar com mais frequ
 
 #### steemit - [steemit.com](https://steemit.com/)
 
+![](https://steemitimages.com/DQmWLAmN3vbM9urRHMp9TJWHJDK8HLWEy2xFggaujFjQpCa/image.png)
+
 - [Meu perfil: @suissa](https://steemit.com/@suissa/)
 
 Esse é o sistema de blog baseado em blockchain que recompensa os criadores de conteúdo.
