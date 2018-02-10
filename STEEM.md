@@ -6,6 +6,8 @@ Antes de ser apresentado propriamente à esse projeto pelo meu caro [Herndades] 
 
 Vamos obserrvar algumas informações retiradas de [coinmarketcap.com/pt-br/currencies/steem](https://coinmarketcap.com/pt-br/currencies/steem/):
 
+*ps0: vários textos retirados e traduzidos do site oficial.*
+
 *ps1: como o artigo será em português também usarei os valores em R$.*
 
 *ps2: **não será um artigo técnico e sim introdutório***
