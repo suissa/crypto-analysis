@@ -36,6 +36,10 @@ Uma forma interessante de acompanhar a execução das tarefas desse Projeto é e
 ![Projects - Smart Media Tokens](https://i.imgur.com/QqtaJs2.png)
 
 
+Podemos ver pelo Pulse do seu Github que o projeto tem certa movimentação oque nos diz que a plataforma está evoluindo tecnicamente e de forma orgânica.
+
+![Githuib STEEM pulse](https://i.imgur.com/ObG0UuE.png)
+
 <hr>
 
 ## Análise
