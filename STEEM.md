@@ -24,6 +24,7 @@ Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem]
 
 
 <hr>
+<br>
 
 
 ## Github - Código fonte
@@ -41,6 +42,7 @@ Podemos ver pelo Pulse do seu Github que o projeto tem certa movimentação oque
 ![Githuib STEEM pulse](https://i.imgur.com/ObG0UuE.png)
 
 <hr>
+<br>
 
 ## Análise
 
@@ -78,6 +80,7 @@ No próprio site encontraremos a seguinte explicação:
 Ele permite que os tokens sejam distribuídos por algoritmos baseados em "*upvote*" e "*like*" que podem ser integrados com sites para alinhar incentivos entre os proprietários de aplicativos e os membros da comunidade para estimular o crescimento.
 
 <hr>
+<br>
 
 ### O Problema
 
@@ -110,6 +113,7 @@ Grandes redes sociais, como o Facebook, ganham lucros com os editores, mas não 
 
 
 <hr>
+<br>
 
 ### A Solução
 
