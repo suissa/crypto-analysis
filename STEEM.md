@@ -195,6 +195,8 @@ Além de não copiar o texto de outrém também se atenha ao uso de imagens de t
 
 #### utopian - [utopian.io](https://utopian.io/)
 
+![Utopian logo](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/560/907/datas/gallery.jpg)
+
 - [Meu perfil: @suissa](https://utopian.io/@suissa)
 
 Como um desenvolvedor *open source* esse sistema deveras me interessa, entretanto como eu já percebi que existem DIVERSAS formas de se contribuir com esse sistema irei escreve, logo, um artigo focado apenas nesse contexto.
@@ -207,10 +209,13 @@ Já venho deixar aqui MEUS PARABÉNS a toda equipe resonsável por esse projeto,
 
 #### d.tube - [d.tube](https://d.tube/)
 
+![D.Tube logo](https://steemitimages.com/0x0/https://ipfs.io/ipfs/QmWJNhrmzWLB6GhBiqb92vWo4b46nPmhRUzb6vQEu1BFgb)
 
 - [Meu canal: suissa](https://d.tube/#!/c/suissa) (Ainda sem nada)
 
 Não encontrei muitas informações para passar aqui nesse momento, mas irei atualizar na medida do possível.
+
+Um *post* interessante para você ler nesse meio tempo [Introducing DTube: a decentralized video platform using STEEM and IPFS](https://steemit.com/video/@heimindanger/introducing-dtube-a-decentralized-video-platform-using-steem-and-ipfs)
 
 <hr>
 
