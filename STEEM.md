@@ -10,7 +10,9 @@ Vamos obserrvar algumas informações retiradas de [coinmarketcap.com/pt-br/curr
 
 *ps2: **não será um artigo técnico e sim introdutório***
 
+<br>
 <hr>
+<br>
 
 ## Informações
 
@@ -131,7 +133,10 @@ Os Smart Tokens com liquidação imediata e taxas de transação zero abre novos
 Os editores também podem usar os tokens para angariar fundos através de uma 'Initial Coin Offering' (ICO).
 
 
+<br>
 <hr>
+<br>
+<br>
 
 ### Velocida e Taxas
 
@@ -150,6 +155,7 @@ Achei interessante essa informação pois eu não conhecia, porém nesse exato m
 <hr>
 <br>
 
+<br>
 
 ### Ecossistema
 
