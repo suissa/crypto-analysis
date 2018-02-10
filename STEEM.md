@@ -9,7 +9,6 @@ Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem]
 
 *ps2: **não será um artigo técnico e sim introdutório***
 
-<br>
 <hr>
 
 ## Informações
@@ -24,7 +23,6 @@ Vamos analisar sua posição atual no [coinmarketcap.com/pt-br/currencies/steem]
 - **Código fonte**: [github.com/steemit/steem](https://github.com/steemit/steem)
 
 
-<br>
 <hr>
 
 ## Análise
@@ -62,7 +60,6 @@ No próprio site encontraremos a seguinte explicação:
 > A *Proof-of-Brain* é um tipo de algoritmo de recompensa de tokens que encoraja as pessoas a criar e a curar conteúdo.
 Ele permite que os tokens sejam distribuídos por algoritmos baseados em "*upvote*" e "*like*" que podem ser integrados com sites para alinhar incentivos entre os proprietários de aplicativos e os membros da comunidade para estimular o crescimento.
 
-<br>
 <hr>
 
 ### O Problema
@@ -92,13 +89,11 @@ Ad-revenue is taking a hit with the rise of ad-blockers.
 Tips and donations are not viable due to the expense of processing micro-payments
 Huge social networks like Facebook take profits from publishers but don't share revenue
 
-<br>
 <hr>
 
 ### A Solução
 
 
-<br>
 <hr>
 
 ### Gráficos
@@ -124,9 +119,7 @@ Vamos analisar os mesmos gráficos que existem nesse site:
 
 
 
-<br>
 <hr>
-<br>
 
 ### Github - Código fonte
 
@@ -151,6 +144,4 @@ Para isso irei dissertar sobre os 3 sistemas que eu pretendo usar com mais frequ
 
 [Meu canal: suissa](https://d.tube/#!/c/suissa) (Ainda sem nada)
 
-<br>
 <hr>
-<br>
