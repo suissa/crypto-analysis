@@ -139,6 +139,7 @@ A execução de uma rede social descentralizada baseada em recompensas exigiu no
 
 
 <hr>
+<br>
 
 
 ### Ecossistema
