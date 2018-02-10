@@ -4,6 +4,9 @@ Antes de ser apresentado propriamente à esse projeto pelo meu caro [Herndades] 
 
 > Essa análise não será apenas focada na **moeda** STEMM mas sim no que ela tem a nos oferecer.
 
+
+<br>
+
 *ps0: vários textos retirados e traduzidos do site oficial.*
 
 *ps1: como o artigo será em português também usarei os valores em R$.*
