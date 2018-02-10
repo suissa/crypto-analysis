@@ -132,16 +132,21 @@ Para isso irei dissertar sobre os 3 sistemas que eu pretendo usar com mais frequ
 
 #### steemit - [steemit.com](https://steemit.com/)
 
-[Meu perfil: @suissa](https://steemit.com/@suissa/)
+- [Meu perfil: @suissa](https://steemit.com/@suissa/)
 
+Esse é o sistema de blog baseado em blockchain que recompensa os criadores de conteúdo.
+
+Primeiro passo que você deverá fazer após ter sua conta aceita no sistema é entrar no *[Quick Start](https://steemit.com/welcome)* e aprender mais sobre como é seu funcionamento para deois escrever seus *posts*.
+
+Para quem está acostumado ao Medium terá uma leve decepção pois você não poderá escrever seu texto e ele ir salvando automaticamente, no caso do Steemit você precisa submeter o artigo completo. A dica que posso lhe dar é criar um repositório no Github para seus artigos e escrevá-os usando Markdown, depois de finalizado basta submetê-lo. 
 
 #### utopian - [utopian.io](https://utopian.io/)
 
-[Meu perfil: @suissa](https://utopian.io/@suissa)
+- [Meu perfil: @suissa](https://utopian.io/@suissa)
 
 #### d.tube - [d.tube](https://d.tube/)
 
 
-[Meu canal: suissa](https://d.tube/#!/c/suissa) (Ainda sem nada)
+- [Meu canal: suissa](https://d.tube/#!/c/suissa) (Ainda sem nada)
 
 <hr>
