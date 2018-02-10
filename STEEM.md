@@ -113,6 +113,14 @@ Grandes redes sociais, como o Facebook, ganham lucros com os editores, mas não 
 
 ### A Solução
 
+Permitir que os editores criem tokens que ajudem a monetizar conteúdo e a crescer comunidades.
+
+#### Como?
+
+Os Tokens permitem que os editores criem incentivos econômicos mutuamente benéficos para a comunidade para impulsionar o crescimento da plataforma.
+Os Smart Tokens com liquidação imediata e taxas de transação zero abre novos modelos de negócios não publicitários.
+Os editores também podem usar os tokens para angariar fundos através de uma 'Initial Coin Offering' (ICO).
+
 
 <hr>
 
