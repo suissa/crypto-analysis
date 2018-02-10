@@ -110,13 +110,14 @@ Podemos ver nitidamente esse problema baseado em uma solução atual conhecida c
 
 #### Por quê?
 
-*Traduzindo o texto oficia do site:*
+*Traduzindo o texto oficial do site:*
 
 > É difícil para os editores adquirir uma massa crítica de assinantes pagantes.
 A receita de anúncios está levando um golpe com o aumento dos bloqueadores de anúncios.
 Dicas e doações não são viáveis devido à despesa de processamento de micro pagamentos
 Grandes redes sociais, como o Facebook, ganham lucros com os editores, mas não compartilham receitas
 
+** Concordo plenamente e é exatamente por isso que acredito piamente no futuro desse projeto!**
 
 <br>
 <hr>
