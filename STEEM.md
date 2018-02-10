@@ -189,6 +189,11 @@ A sua reputação aumentará à medida que você ganhar as cotações para as su
 
 - [Meu perfil: @suissa](https://utopian.io/@suissa)
 
+Para mim como um desenvolvedor *open source* me interessa muito, entretanto como eu já percebi que existem DVERSAS formas de se contribuir com esse sistema irei escreve, logo, um artigo focado apenas nesse contexto.
+
+Sempre pensei em formas de se rentabilizar os projetos *open source* e fico **MUITO** feliz de ver que isto está sendo possível graças ao Utopian.
+
+Já venho deixar aqui MEUS PARABÉNS a toda equipe resonsável por esse projeto, assim como todo o ecossistema do STEEM veio para ajudar os criadores de conteúdo prevejo uma ótima tração nesse sistema ainda mais após fomentarmos cada vez mais seu uso pela comunidade brasileira.
 
 <hr>
 
@@ -196,6 +201,8 @@ A sua reputação aumentará à medida que você ganhar as cotações para as su
 
 
 - [Meu canal: suissa](https://d.tube/#!/c/suissa) (Ainda sem nada)
+
+Não encontrei muitas informações para passar aqui nesse momento, mas irei atualizar na medida do possível.
 
 <hr>
 
