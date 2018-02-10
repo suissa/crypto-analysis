@@ -172,6 +172,17 @@ A recompensa do autor é paga 50% em Steem Power e 50% em STEEM / SBD.
 
 **Os autores também têm a opção de recusar o pagamento, ou serão pagos em 100% do Steem Power!**
 
+##### Reputação
+
+Uma pontuação de reputação é uma maneira que o Steemit mede a o valor que você trouxe para a comunidade.
+
+Quanto maior o número, mais votos ponderados essa conta ganha.
+
+**Todos os novos usuários começam em 25.**
+
+A sua reputação aumentará à medida que você ganhar as cotações para as suas postagens e comentários, mas pode descer se forem sinalizadas.
+
+
 <hr>
 
 #### utopian - [utopian.io](https://utopian.io/)
