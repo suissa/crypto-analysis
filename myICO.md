@@ -13,7 +13,19 @@ Na minha arquitetura de Sistemas Web boa parte do código necessário é gerado 
 
 E é exatamente o que eu acredito que falta nesse mercado, não ecossistemas já prontos e funcionais, pois temos o ótimo exemplo da Steem com seus diversos serviços, porém eu queria algo ainda maior e que fomentasse e rentabilizasse MAIS o trabalho OPEN SOURCE.
 
-Foi pensando assim
+Foi pensando assim que notei o que mais falta nesse meio, um ecossistema híbrido para a criação de sistemas web para qualquer funcionalidade desejada e que seja rentável para quem o desenvolveu e ajuda a manter.
+
+Pensei nessa necessidade simplesmente pensando em uma solução para OS MEUS PROBLEMAS, pois eu opero em mais de 5 exchanges toda semana, uso diversas carteiras diferentes tanto Web como Desktop e cada exchange possui sua identidade visual o que dificulta uma correlação mais direta dos dados.
+
+Dessa forma percebi que na verdade o que falta é um Ecossistema focado na criação e aluguel em um lugar único.
+
+Farei a seguinte analogia:
+
+> Pense que cada módulo que você quer utilizar fosse um aplicativo na Google Play/Apple Store, certo? E que esse nosso sistema fosse seu celular, será nesse sistema onde você irá alugar/usar cada módulo porém onde um pode colaborar com o outro. 
+
+Traduzindo em outras palavras: seria como se fosse um Wix porém para Sistemas Web para Crytocoins.
+
+> Entendeu?
 
 
 ## Roadmap
