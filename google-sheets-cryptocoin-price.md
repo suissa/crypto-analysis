@@ -40,7 +40,9 @@ Depois apenas analisei qual função seria a melhor para o meu problema e escolh
 Dessa forma consegui criar uma função que busca o valor da moeda que possui seu símbolo na coluna A:
 
 ```
+
 =CRYPTOFINANCE(TEXTJOIN("/", TRUE, A3, "BTC"))
+
 ```
 
 Para você poder reusar essa mesma fórmula nas outras linhas da planilha basta fazer a mesma ação que faria no Excel, basta clickar e segurar no canto inferior direito da célula e arrastar parar baixo até a linha final desejada, pois assim o valor de `A3` irá mudar **apenas** o número da linha e não a coluna.
@@ -68,10 +70,12 @@ Dessa maneira nós fixamos que sempre será a coluna `H` e sempre a célula: `2`
 
 
 ```
+
 =(B3*D3)*$H$2
+
 ```
 
-#### Dica
+#### Dica - Formatação
 
 Formate corretamente sua coluna caso ela não esteja como moeda:
 
@@ -79,10 +83,57 @@ Formate corretamente sua coluna caso ela não esteja como moeda:
 
 ### Função - Lucro
 
+Antes de mostrar essa fórmula irei mostrar como nós podemos deduzir ela.
+
+Imagine que o valor comprado foi 200 e o atual é 220, ou seja, 10% de lucro.
+
+
+
+Pegamos a diferença entre o valor inicial e o final, perceba aqui que se o valor final for maior que o inicial, logo tendo lucro, o resultado será um valor negativo:
 
 ```
-=(C9-D9)/C9*-1
+
+=(200-220) // = -20
+
 ```
+
+Com a diferença nós iremos saber qual a proporção desse valor para o valor inicial, fazendo uma simples divisão:
+
+```
+
+=(200-220)/200 // = -20 / 200 = -0.1
+
+```
+
+E como sabemos que o Lucro deveria ser positivo basta multiplicarmos por `-1`
+
+```
+
+=(200-220)/200*-1 // = -20 / 200 = -0.1 * -1 = 0.1
+
+```
+
+Eu só não adicionei mais uma multiplicação por 100, para termos a **porcentagem** real, pois iremos formatar essa coluna de forma parecida com o que fizemos com o Valor Atual, com isso nós criamos a seguinte fórmula:
+
+
+```
+
+=(inicial-final)/inicial*-1
+
+```
+
+Trocando pelas nossas células ficou assim:
+
+```
+
+=(C9-D9)/C9*-1
+
+```
+
+
+#### Dica - Formatação
+
+![](blob:https://imgur.com/795b8f4b-76b6-45a4-8051-29d3d5945bb0)
 
 
 ## Exemplo
