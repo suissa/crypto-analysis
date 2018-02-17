@@ -180,3 +180,6 @@ Depois basta esperar carregar os dados:
 ![Bye Bye](https://vignette.wikia.nocookie.net/yandere-simulator-fanon/images/6/63/7e79d0db2452984041abc0a553cbc495_okay-i-see-bye-now-g-topsy-okay-bye-memes_800-444.jpeg/revision/latest/scale-to-width-down/640?cb=20170405092917)
 
 *Imagem retirada de: http://yandere-simulator-fanon.wikia.com/wiki/File:7e79d0db2452984041abc0a553cbc495_okay-i-see-bye-now-g-topsy-okay-bye-memes_800-444.jpeg*
+
+
+*ps: todas as outras imagens são printscreen meus.*
