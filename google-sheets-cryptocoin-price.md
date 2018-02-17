@@ -136,24 +136,47 @@ Trocando pelas nossas células ficou assim:
 ![](blob:https://imgur.com/795b8f4b-76b6-45a4-8051-29d3d5945bb0)
 
 
-## Exemplo
+## Exemplo - Como usar?
 
-Você pode utilizar meu exemplo funcional e criar uma cópia dele.
-
-[Exemplo rodando](https://docs.google.com/spreadsheets/d/1s-WnUpyG2jv_rFXOslO7lcClkpa8x1QE26kkHJwa8j4/edit?usp=sharing)
-
-Depois basta 
+Você pode utilizar meu [exemplo rodando](https://docs.google.com/spreadsheets/d/1s-WnUpyG2jv_rFXOslO7lcClkpa8x1QE26kkHJwa8j4/edit?usp=sharing) criando uma cópia dele.
 
 
 ![Criando uma cópia da planilha](https://i.imgur.com/JYI0Iv0.png)
 
+<br>
+
+Depois basta RENOMEAR ela para o que você desejar e seguir os passos das imagens abaixo:
+
 ![Planilha copiada](https://i.imgur.com/vzY6OxT.png)
+
+<br>
+
+Adicionar o *Add-on* na sua planilha:
 
 ![Click em Get Add-on](https://i.imgur.com/iDXTiKW.png)
 
+<br>
+
+Procurar o *Add-on* e adicioná-lo:
+
 ![Procure por cryptofinance](https://i.imgur.com/19oAruP.png)
+
+<br>
+
+Depois basta esperar carregar os dados:
 
 ![Carregando os dados](https://i.imgur.com/dTNfEBf.png)
 
 
 **Caso sua planilha não saia desse carregamento logo você deverá fazer um REFRESH(Ctrl+R) na página.**
+
+<br>
+
+> **Por hoje é só, espero que esse meu exemplo sirva para alguém, assim como essas explicações ehhehehhe.**
+
+
+<br>
+
+![Bye Bye](http://images.memes.com/meme/753301)
+
+*Imagem retirada de: http://memes.com/img/753301*
