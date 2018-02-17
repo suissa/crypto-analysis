@@ -54,7 +54,7 @@ Para você poder reusar essa mesma fórmula nas outras linhas da planilha basta 
 
 ## Bônus
 
-### Função do Valor Atual
+### Função - Valor Atual
 
 Nessa função nós precisamos fixar qual é a célula que possui o preço atual do Bitcoin, que é a `H2`, para que possamos multiplicar pelo resultado da Quantidade vezes o Preço Atual.
 
@@ -71,7 +71,18 @@ Dessa maneira nós fixamos que sempre será a coluna `H` e sempre a célula: `2`
 =(B3*D3)*$H$2
 ```
 
+#### Dica
 
+Formate corretamente sua coluna caso ela não esteja como moeda:
+
+![](https://i.imgur.com/IWgC5Wq.png)
+
+### Função - Lucro
+
+
+```
+=(C9-D9)/C9*-1
+```
 
 
 ## Exemplo
