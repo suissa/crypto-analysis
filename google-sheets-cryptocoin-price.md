@@ -1,12 +1,12 @@
-# Como criar/usar uma planilha no Google Drive com os preços atuais das suas cryptocoins
-
 Hoje precisei criar uma planilha para deixar mais transparente as operações que estou fazendo em um fundo pequeno, apenas alguns amigos, de *cryptocoins*.
 
-Ainda esse mês eu criarei um *Dashboard Web* para mostrar essas informações de forma mais fácil e bonita, além de prover diversos relatórios. Porém enquanto não fica pronto eu criei uma planilha para adiantar o serviço e fazendo ela eu descobri um *Add-on* muitooooo útil para quem quer gerenciar seus lucros em cima desses ativos digitais.
+Ainda nesse mês eu criarei um *Dashboard Web* para mostrar essas informações de forma mais fácil e bonita, além de prover diversos relatórios. Porém enquanto não fica pronto eu criei uma planilha para adiantar o serviço e fazendo ela eu descobri um *Add-on* muitooooo útil para quem quer gerenciar seus lucros em cima desses ativos digitais.
 
 
+![Planilha final](https://i.imgur.com/i3h7hgR.png)
 
-
+<br>
+<hr>
 
 ## Add-on - CRYPTOFINANCE
 
@@ -15,6 +15,8 @@ Ainda esse mês eu criarei um *Dashboard Web* para mostrar essas informações d
 ```
 =CRYPTOFINANCE("ADA/BTC")
 ```
+
+<br>
 
 
 ## Função - TEXTJOIN
@@ -54,6 +56,9 @@ Para você poder reusar essa mesma fórmula nas outras linhas da planilha basta 
 > Agora sim você consegue reusar ela sempre que quiser!
 
 
+<br>
+<hr>
+
 ## Bônus
 
 ### Função - Valor Atual
@@ -80,6 +85,8 @@ Dessa maneira nós fixamos que sempre será a coluna `H` e sempre a célula: `2`
 Formate corretamente sua coluna caso ela não esteja como moeda:
 
 ![](https://i.imgur.com/IWgC5Wq.png)
+
+<br>
 
 ### Função - Lucro
 
@@ -133,8 +140,11 @@ Trocando pelas nossas células ficou assim:
 
 #### Dica - Formatação
 
-![](blob:https://imgur.com/795b8f4b-76b6-45a4-8051-29d3d5945bb0)
+![](https://i.imgur.com/9OhCBIo.png)
 
+
+<br>
+<hr>
 
 ## Exemplo - Como usar?
 
