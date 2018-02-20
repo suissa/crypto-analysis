@@ -39,7 +39,7 @@ And I just searched for: `join`. Because I knew it should be something like that
 
 Depois apenas analisei qual função seria a melhor para o meu problema e escolhi a [TEXTJOIN](https://support.google.com/docs/answer/7013992) pois eu não precisarei de vários valores como na JOIN que aceita um *Array* de valores.
 
-Dessa forma consegui criar uma função que busca o valor da moeda que possui seu símbolo na coluna A:
+In this way I was able to create a function that searches the value of the currency that has its symbol in column A:
 
 ```
 
