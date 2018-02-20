@@ -2,7 +2,7 @@ Today I had to create a spreadsheet to manage my cryptocoins portfolio.
 
 Later this month I will create a Dashboard Web to show this information more easily and beautifully, as well as providing various reports. But while it's not ready I've created a spreadsheet to advance the service and by doing so I've discovered a very useful Add-on for anyone who wants to manage their profits on top of those digital assets.
 
-![Final spreadsheet](https://i.imgur.com/L8kmMsj.png)
+[![Final spreadsheet](https://i.imgur.com/L8kmMsj.png)](https://docs.google.com/spreadsheets/d/1s-WnUpyG2jv_rFXOslO7lcClkpa8x1QE26kkHJwa8j4/edit?usp=sharing)
 
 <br>
 <hr>
@@ -26,7 +26,7 @@ While I was creating the lines of each coin, I asked myself:
 > Is there an automatic way to create the `"COIN/BTC"` String? I already have the symbol for each one in the first column.
 
 
-[![](https://i.imgur.com/67qO1UY.png)](https://docs.google.com/spreadsheets/d/1s-WnUpyG2jv_rFXOslO7lcClkpa8x1QE26kkHJwa8j4/edit?usp=sharing)
+![](https://i.imgur.com/SoWtBSo.png)
 
 So I searched Google and found the following link:
 
