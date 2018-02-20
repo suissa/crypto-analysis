@@ -47,13 +47,14 @@ In this way I was able to create a function that searches the value of the curre
 
 ```
 
-Para você poder reusar essa mesma fórmula nas outras linhas da planilha basta fazer a mesma ação que faria no Excel, basta clickar e segurar no canto inferior direito da célula e arrastar parar baixo até a linha final desejada, pois assim o valor de `A3` irá mudar **apenas** o número da linha e não a coluna.
+For you to be able to reuse this same formula in the other rows of the worksheet just do the same action you would do in Excel, just click and hold in the lower right corner of the cell and drag stop down to the desired end line, because thus the value of `A3` will only change the line number and not the column.
+
 
 ![](https://i.imgur.com/EfiEeGx.png)
 ![](https://i.imgur.com/8arlcAt.png)
 
 
-> Agora sim você consegue reusar ela sempre que quiser!
+> Now you can reuse it whenever you want!
 
 
 <br>
@@ -61,17 +62,17 @@ Para você poder reusar essa mesma fórmula nas outras linhas da planilha basta 
 
 ## Bonus
 
-### Function - Valor Atual
+### Function - Current Value
 
-Nessa função nós precisamos fixar qual é a célula que possui o preço atual do Bitcoin, que é a `H2`, para que possamos multiplicar pelo resultado da Quantidade vezes o Preço Atual.
+In this function we need to fix which is the cell that has the Bitcoin Current Price, which is `H2`, so that we can multiply by the Amount result times the Current Price.
 
-- Quantidade: B{3};
-- Preço Atual: D{3};
-- Preço Atual Bitcoin: H2;
+- Amount: B{3};
+- Current Price: D{3};
+- Bitcoin Current Price: H2;
 
-Para fixar a célula do Preço Atual Bitcoin iremos utilizar o `$`, deixando assim: `$H$2`.
+To fix the Bitcoin Current Price cell we will use `$`, thus leaving: `$H$2`.
 
-Dessa maneira nós fixamos que sempre será a coluna `H` e sempre a célula: `2`:
+In this way we have fixed that it will always be the `H` column and always the `2` cell:
 
 
 ```
