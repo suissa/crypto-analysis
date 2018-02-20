@@ -141,7 +141,7 @@ Changing our cells was like this:
 
 #### Tip - Format
 
-![](https://i.imgur.com/9OhCBIo.png)
+![](https://i.imgur.com/KeewNn8.png)
 
 
 <br>
