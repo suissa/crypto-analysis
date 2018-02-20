@@ -2,7 +2,7 @@ Today I had to create a spreadsheet to manage my cryptocoins portfolio.
 
 Later this month I will create a Dashboard Web to show this information more easily and beautifully, as well as providing various reports. But while it's not ready I've created a spreadsheet to advance the service and by doing so I've discovered a very useful * Add-on * for anyone who wants to manage their profits on top of those digital assets.
 
-![Final spreadsheet](https://i.imgur.com/i3h7hgR.png)
+![Final spreadsheet](https://i.imgur.com/BrY9Gou.png)
 
 <br>
 <hr>
