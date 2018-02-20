@@ -2,7 +2,7 @@ Today I had to create a spreadsheet to manage my cryptocoins portfolio.
 
 Later this month I will create a Dashboard Web to show this information more easily and beautifully, as well as providing various reports. But while it's not ready I've created a spreadsheet to advance the service and by doing so I've discovered a very useful Add-on for anyone who wants to manage their profits on top of those digital assets.
 
-[![Final spreadsheet](https://i.imgur.com/L8kmMsj.png)](https://docs.google.com/spreadsheets/d/1s-WnUpyG2jv_rFXOslO7lcClkpa8x1QE26kkHJwa8j4/edit?usp=sharing)
+[![Final spreadsheet](https://i.imgur.com/v1JgeK0.png)](https://docs.google.com/spreadsheets/d/1s-WnUpyG2jv_rFXOslO7lcClkpa8x1QE26kkHJwa8j4/edit?usp=sharing)
 
 <br>
 <hr>
@@ -85,7 +85,7 @@ In this way we have fixed that it will always be the `H` column and always the `
 
 Properly format your column if it is not as currency:
 
-![](https://i.imgur.com/IWgC5Wq.png)
+![](https://i.imgur.com/4EqdUKi.png)
 
 <br>
 
