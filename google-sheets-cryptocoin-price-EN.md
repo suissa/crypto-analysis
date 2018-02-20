@@ -18,21 +18,22 @@ Later this month I will create a Dashboard Web to show this information more eas
 <br>
 
 
-## Função - TEXTJOIN
+## Function - TEXTJOIN
 
-Porém enquanto fui criando as linhas de cada moeda na mão, indaguei-me:
+While I was creating the lines of each coin, I asked myself:
 
-> Bah! Será que não tem uma forma automática de criar a String `"COIN/BTC"`? Tendo em vista que eu tenho o símbolo de cada uma na primeira coluna.
+
+> Is there an automatic way to create the `"COIN/BTC"` String? I already have the symbol for each one in the first column.
+
 
 ![](https://i.imgur.com/67qO1UY.png)
 
-Foi pensando nisso que procurei no Google:
+So I searched Google and found the following link:
 
 
-Com isso entrei no suporte oficial deles: [https://support.google.com/docs/table/25273?visit_id=1-636544947571461454-1779998409&hl=en&rd=2](https://support.google.com/docs/table/25273?visit_id=1-636544947571461454-1779998409&hl=en&rd=2)
+- [https://support.google.com/docs/table/25273?visit_id=1-636544947571461454-1779998409&hl=en&rd=2](https://support.google.com/docs/table/25273?visit_id=1-636544947571461454-1779998409&hl=en&rd=2)
 
-
-E pesquisei apenas por: `join`. Pois sabia que deveria ser algo assim.
+And I just searched for: `join`. Because I knew it should be something like that.
 
 ![](https://i.imgur.com/7sZA8hJ.png)
 
@@ -58,9 +59,9 @@ Para você poder reusar essa mesma fórmula nas outras linhas da planilha basta 
 <br>
 <hr>
 
-## Bônus
+## Bonus
 
-### Função - Valor Atual
+### Function - Valor Atual
 
 Nessa função nós precisamos fixar qual é a célula que possui o preço atual do Bitcoin, que é a `H2`, para que possamos multiplicar pelo resultado da Quantidade vezes o Preço Atual.
 
@@ -79,7 +80,7 @@ Dessa maneira nós fixamos que sempre será a coluna `H` e sempre a célula: `2`
 
 ```
 
-#### Dica - Formatação
+#### Dica - Format
 
 Formate corretamente sua coluna caso ela não esteja como moeda:
 
@@ -87,7 +88,7 @@ Formate corretamente sua coluna caso ela não esteja como moeda:
 
 <br>
 
-### Função - Lucro
+### Function - Profit
 
 Antes de mostrar essa fórmula irei mostrar como nós podemos deduzir ela.
 
@@ -137,7 +138,7 @@ Trocando pelas nossas células ficou assim:
 ```
 
 
-#### Dica - Formatação
+#### Dica - Format
 
 ![](https://i.imgur.com/9OhCBIo.png)
 
@@ -145,7 +146,7 @@ Trocando pelas nossas células ficou assim:
 <br>
 <hr>
 
-## Exemplo - Como usar?
+## Exemple - How to use?
 
 Você pode utilizar meu [exemplo rodando](https://docs.google.com/spreadsheets/d/1s-WnUpyG2jv_rFXOslO7lcClkpa8x1QE26kkHJwa8j4/edit?usp=sharing) criando uma cópia dele.
 
@@ -188,7 +189,7 @@ Depois basta esperar carregar os dados:
 
 ![Bye Bye](https://vignette.wikia.nocookie.net/yandere-simulator-fanon/images/6/63/7e79d0db2452984041abc0a553cbc495_okay-i-see-bye-now-g-topsy-okay-bye-memes_800-444.jpeg/revision/latest/scale-to-width-down/640?cb=20170405092917)
 
-*Imagem retirada de: http://yandere-simulator-fanon.wikia.com/wiki/File:7e79d0db2452984041abc0a553cbc495_okay-i-see-bye-now-g-topsy-okay-bye-memes_800-444.jpeg*
+*Image from: http://yandere-simulator-fanon.wikia.com/wiki/File:7e79d0db2452984041abc0a553cbc495_okay-i-see-bye-now-g-topsy-okay-bye-memes_800-444.jpeg*
 
 
 *ps: todas as outras imagens são printscreen meus.*
