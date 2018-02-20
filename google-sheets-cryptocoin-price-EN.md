@@ -149,41 +149,41 @@ Changing our cells was like this:
 
 ## Example - How to use?
 
-Você pode utilizar meu [exemplo rodando](https://docs.google.com/spreadsheets/d/1s-WnUpyG2jv_rFXOslO7lcClkpa8x1QE26kkHJwa8j4/edit?usp=sharing) criando uma cópia dele.
+You can use my [running example](https://docs.google.com/spreadsheets/d/1s-WnUpyG2jv_rFXOslO7lcClkpa8x1QE26kkHJwa8j4/edit?usp=sharing) creating a copy of it.
 
 
-![Criando uma cópia da planilha](https://i.imgur.com/JYI0Iv0.png)
+![creating a copy of Spreadsheet](https://i.imgur.com/JYI0Iv0.png)
 
 <br>
 
 Depois basta RENOMEAR ela para o que você desejar e seguir os passos das imagens abaixo:
 
-![Planilha copiada](https://i.imgur.com/vzY6OxT.png)
+![Spreadsheet copied](https://i.imgur.com/vzY6OxT.png)
 
 <br>
 
-Adicionar o *Add-on* na sua planilha:
+Add the Add-on to your spreadsheet:
 
-![Click em Get Add-on](https://i.imgur.com/iDXTiKW.png)
-
-<br>
-
-Procurar o *Add-on* e adicioná-lo:
-
-![Procure por cryptofinance](https://i.imgur.com/19oAruP.png)
+![Click in Get Add-on](https://i.imgur.com/iDXTiKW.png)
 
 <br>
 
-Depois basta esperar carregar os dados:
+Search for the Add-on and add it:
 
-![Carregando os dados](https://i.imgur.com/dTNfEBf.png)
-
-
-**Caso sua planilha não saia desse carregamento logo você deverá fazer um REFRESH(Ctrl+R) na página.**
+![Search for cryptofinance](https://i.imgur.com/19oAruP.png)
 
 <br>
 
-> **Por hoje é só, espero que esse meu exemplo sirva para alguém, assim como essas explicações ehhehehhe.**
+Then just wait to load the data:
+
+![Loading the data](https://i.imgur.com/dTNfEBf.png)
+
+
+**If your worksheet does not exit this load then you should do a REFRESH (Ctrl+R) on the page.**
+
+<br>
+
+> **For today it is this, I hope that my example serves for someone, as well as these explanations. :D**
 
 
 <br>
@@ -193,4 +193,4 @@ Depois basta esperar carregar os dados:
 *Image from: http://yandere-simulator-fanon.wikia.com/wiki/File:7e79d0db2452984041abc0a553cbc495_okay-i-see-bye-now-g-topsy-okay-bye-memes_800-444.jpeg*
 
 
-*ps: todas as outras imagens são printscreen meus.*
+*ps: all other images are my printscreen.*
