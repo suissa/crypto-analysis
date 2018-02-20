@@ -50,8 +50,8 @@ In this way I was able to create a function that searches the value of the curre
 For you to be able to reuse this same formula in the other rows of the worksheet just do the same action you would do in Excel, just click and hold in the lower right corner of the cell and drag stop down to the desired end line, because thus the value of `A3` will only change the line number and not the column.
 
 
-![](https://i.imgur.com/EfiEeGx.png)
-![](https://i.imgur.com/8arlcAt.png)
+![](https://i.imgur.com/5y8eraq.png)
+![](https://i.imgur.com/308N24F.png)
 
 
 > Now you can reuse it whenever you want!
