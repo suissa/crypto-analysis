@@ -157,9 +157,7 @@ You can use my [running example](https://docs.google.com/spreadsheets/d/1s-WnUpy
 
 <br>
 
-Depois basta RENOMEAR ela para o que você desejar e seguir os passos das imagens abaixo:
-
-![Spreadsheet copied](https://i.imgur.com/vzY6OxT.png)
+![Spreadsheet copied](https://i.imgur.com/DXjnNNH.png)
 
 <br>
 
@@ -177,7 +175,7 @@ Search for the Add-on and add it:
 
 Then just wait to load the data:
 
-![Loading the data](https://i.imgur.com/dTNfEBf.png)
+![Loading the data](https://i.imgur.com/XvGwz4Q.png)
 
 
 **If your worksheet does not exit this load then you should do a REFRESH (Ctrl+R) on the page.**
