@@ -37,7 +37,7 @@ And I just searched for: `join`. Because I knew it should be something like that
 
 ![](https://i.imgur.com/7sZA8hJ.png)
 
-Depois apenas analisei qual função seria a melhor para o meu problema e escolhi a [TEXTJOIN](https://support.google.com/docs/answer/7013992) pois eu não precisarei de vários valores como na JOIN que aceita um *Array* de valores.
+Then I just analyzed which function would be the best for my problem and chose [TEXTJOIN](https://support.google.com/docs/answer/7013992) because I do not need several values like JOIN that accepts an Array of values.
 
 In this way I was able to create a function that searches the value of the currency that has its symbol in column A:
 
@@ -80,9 +80,9 @@ Dessa maneira nós fixamos que sempre será a coluna `H` e sempre a célula: `2`
 
 ```
 
-#### Dica - Format
+#### Tip - Format
 
-Formate corretamente sua coluna caso ela não esteja como moeda:
+Properly format your column if it is not as currency:
 
 ![](https://i.imgur.com/IWgC5Wq.png)
 
@@ -90,13 +90,13 @@ Formate corretamente sua coluna caso ela não esteja como moeda:
 
 ### Function - Profit
 
-Antes de mostrar essa fórmula irei mostrar como nós podemos deduzir ela.
+Before showing this formula I will show how we can deduce it.
 
-Imagine que o valor comprado foi 200 e o atual é 220, ou seja, 10% de lucro.
+Imagine that the value bought was 200 and the current value is 220, or 10% of profit.
 
 
 
-Pegamos a diferença entre o valor inicial e o final, perceba aqui que se o valor final for maior que o inicial, logo tendo lucro, o resultado será um valor negativo:
+We take the difference between the initial value and the final value, note here that if the final value is greater than the initial value, then having profit, the result will be a negative value:
 
 ```
 
@@ -104,7 +104,7 @@ Pegamos a diferença entre o valor inicial e o final, perceba aqui que se o valo
 
 ```
 
-Com a diferença nós iremos saber qual a proporção desse valor para o valor inicial, fazendo uma simples divisão:
+With the difference we will know the proportion of this value to the initial value, making a simple division:
 
 ```
 
@@ -112,7 +112,7 @@ Com a diferença nós iremos saber qual a proporção desse valor para o valor i
 
 ```
 
-E como sabemos que o Lucro deveria ser positivo basta multiplicarmos por `-1`
+And since we know that Profit should be positive, we need to multiply by `-1`:
 
 ```
 
@@ -120,16 +120,16 @@ E como sabemos que o Lucro deveria ser positivo basta multiplicarmos por `-1`
 
 ```
 
-Eu só não adicionei mais uma multiplicação por 100, para termos a **porcentagem** real, pois iremos formatar essa coluna de forma parecida com o que fizemos com o Valor Atual, com isso nós criamos a seguinte fórmula:
+I just did not add one more multiplication per 100, so we have the actual **percentage**, because we will format this column in a similar way to what we did with Current Value, so we created the following formula:
 
 
 ```
 
-=(inicial-final)/inicial*-1
+=(initial-final)/initial*-1
 
 ```
 
-Trocando pelas nossas células ficou assim:
+Changing our cells was like this:
 
 ```
 
@@ -138,7 +138,7 @@ Trocando pelas nossas células ficou assim:
 ```
 
 
-#### Dica - Format
+#### Tip - Format
 
 ![](https://i.imgur.com/9OhCBIo.png)
 
@@ -146,7 +146,7 @@ Trocando pelas nossas células ficou assim:
 <br>
 <hr>
 
-## Exemple - How to use?
+## Example - How to use?
 
 Você pode utilizar meu [exemplo rodando](https://docs.google.com/spreadsheets/d/1s-WnUpyG2jv_rFXOslO7lcClkpa8x1QE26kkHJwa8j4/edit?usp=sharing) criando uma cópia dele.
 
