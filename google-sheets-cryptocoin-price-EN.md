@@ -26,7 +26,7 @@ While I was creating the lines of each coin, I asked myself:
 > Is there an automatic way to create the `"COIN/BTC"` String? I already have the symbol for each one in the first column.
 
 
-![](https://i.imgur.com/67qO1UY.png)
+[![](https://i.imgur.com/67qO1UY.png)](https://docs.google.com/spreadsheets/d/1s-WnUpyG2jv_rFXOslO7lcClkpa8x1QE26kkHJwa8j4/edit?usp=sharing)
 
 So I searched Google and found the following link:
 
