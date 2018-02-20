@@ -152,7 +152,8 @@ Changing our cells was like this:
 You can use my [running example](https://docs.google.com/spreadsheets/d/1s-WnUpyG2jv_rFXOslO7lcClkpa8x1QE26kkHJwa8j4/edit?usp=sharing) creating a copy of it.
 
 
-![creating a copy of Spreadsheet](https://i.imgur.com/JYI0Iv0.png)
+![creating a copy of Spreadsheet](https://i.imgur.com/N4keqWv.png)
+![](https://i.imgur.com/ZRN3OBi.png)
 
 <br>
 
