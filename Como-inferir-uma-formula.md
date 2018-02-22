@@ -58,7 +58,7 @@ Trocando pelas nossas células ficou assim:
 
 Agora em cima desse texto que eu já tinha criado irei explicar um pouco mais como é minha metodologia de inferência de fórmulas.
 
-Como nós já fizemos a da Porcentagem irei demontrar a velocidade.
+Como nós já fizemos a da Porcentagem irei demonstrar a velocidade.
 
 Para calcularmos a velocidade de algo nós precisamos de 2 valores:
 
@@ -161,7 +161,7 @@ velocidade = 60m/s
 Logo podemos escrever isso em JS assim:
 
 
-```
+```ES6
 
 const Δd = (distInicial, distFinal) => distFinal - distInicial
 
