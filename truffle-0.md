@@ -25,4 +25,22 @@ Truffle é um ambiente de desenvolvimento, estrutura de testes e pipeline de ati
 
 ## Instalação
 
-[](https://github.com/trufflesuite/truffle)
+Tão fácil quando instalar um pacote global com NPM hehehehe:
+
+```
+$ npm install -g truffle
+```
+
+## Como usar
+
+For a default set of contracts and tests, run the following within an empty project directory:
+
+Para um conjunto padrão de contratos e testes, execute o seguinte comando  dentro de um diretório vazio:
+
+```
+$ truffle init
+```
+A partir daí, você pode executar `truffle compile`, `truffle migrate` e `truffle test` para compilar seus contratos, implantar(deploy) esses contratos na rede e executar os testes unitários associados.
+
+Certifique-se de estar conectado a um cliente ethereum antes de executar esses comandos. Se você for novo, instale o [testrpc](https://github.com/trufflesuite/ganache-cli) para executar um servidor local RPC. Depois disso, simplesmente execute o testrpc em uma nova guia.
+
